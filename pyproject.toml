@@ -9,7 +9,6 @@ description = "Lie Groups for PyTorch"
 authors = [
     { name="teedrz", email="zachteed@gmail.com" }
 ]
-description = "Lie Groups for PyTorch"
 license = { text = "BSD-3-Clause" }
 readme = "README.md"
 requires-python = ">=3.11"
